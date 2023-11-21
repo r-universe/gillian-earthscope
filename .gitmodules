@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "IRISMustangMetrics"]
+	path = IRISMustangMetrics
+	url = https://github.com/cran/IRISMustangMetrics
+[submodule "seismicRoll"]
+	path = seismicRoll
+	url = https://github.com/cran/seismicRoll
