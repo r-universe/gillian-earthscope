@@ -5,6 +5,9 @@
 [submodule "IRISMustangMetrics"]
 	path = IRISMustangMetrics
 	url = https://github.com/cran/IRISMustangMetrics
+[submodule "IRISSeismic"]
+	path = IRISSeismic
+	url = https://github.com/cran/IRISSeismic
 [submodule "seismicRoll"]
 	path = seismicRoll
 	url = https://github.com/cran/seismicRoll
